@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AnnalynsInfiltration")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PhoneNumberAnalysis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+668884c046b22088ff822b68e85d976ab3263c9d")]
-[assembly: System.Reflection.AssemblyProductAttribute("AnnalynsInfiltration")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AnnalynsInfiltration")]
+[assembly: System.Reflection.AssemblyProductAttribute("PhoneNumberAnalysis")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PhoneNumberAnalysis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
