@@ -4,16 +4,31 @@ static class LogLine
 {
     public static string Message(string logLine)
     {
-        throw new NotImplementedException("Please implement the (static) LogLine.Message() method");
+        int colonIndex = logLine.IndexOf(":");
+        if (colonIndex >= 0) {
+            string message = logLine.Substring(colonIndex + 1).Trim();
+            return message;
+        }
+        return string.Empty;
     }
 
     public static string LogLevel(string logLine)
     {
-        throw new NotImplementedException("Please implement the (static) LogLine.LogLevel() method");
+        int startIndex = logLine.IndexOf("[") + 1;
+        int endIndex = logLine.IndexOf("]");
+        if (startIndex > 0 && endIndex > startIndex){
+            string logLevel = logLine.Substring(startIndex, 
+                                                endIndex - startIndex).ToLower();
+            return logLevel;
+        }  
+        return string.Empty;
     }
 
     public static string Reformat(string logLine)
     {
-        throw new NotImplementedException("Please implement the (static) LogLine.Reformat() method");
+        string message = Message(logLine);
+        string logLevel = LogLevel(logLine);
+
+        return $"{message} ({logLevel})";
     }
 }
