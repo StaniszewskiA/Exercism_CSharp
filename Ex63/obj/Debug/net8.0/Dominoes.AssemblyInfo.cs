@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LogLevels")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Dominoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2e3447faddbe3f21a1f76005789de7236209925")]
-[assembly: System.Reflection.AssemblyProductAttribute("LogLevels")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LogLevels")]
+[assembly: System.Reflection.AssemblyProductAttribute("Dominoes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Dominoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
