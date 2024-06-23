@@ -48,10 +48,7 @@ class Wizard : Character
         return 3;
     }
 
-    public override bool Vulnerable()
-    {
-        return !spellPrepared;
-    }
+    public override bool Vulnerable() => !spellPrepared;
 
     public void PrepareSpell()
     {
