@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gigasecond")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb53c2ebcedb6b8cd1a404b94c7c0b098043221f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a0e03c35532262e502c9d831bf0de5cbc13484")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gigasecond")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gigasecond")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
