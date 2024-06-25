@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProteinTranslation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51874473f22e936a7f8f9a9e2ba0b2a53e0f5a38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b1495704c4800d354475324e4954bee1217a4fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProteinTranslation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProteinTranslation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
