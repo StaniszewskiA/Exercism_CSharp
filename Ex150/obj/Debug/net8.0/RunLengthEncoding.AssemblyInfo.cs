@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RunLengthEncoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efab7769526693f717358b62b6fea526d1f8fa3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18941ecdb86ad8d35477cd2a82666f5c96c9bd4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RunLengthEncoding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RunLengthEncoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
