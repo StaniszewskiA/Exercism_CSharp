@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Transpose")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18941ecdb86ad8d35477cd2a82666f5c96c9bd4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e29a15682ce7937bb8999ea8ff7264176562e4e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Transpose")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Transpose")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
