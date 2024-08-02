@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaddlePoints")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84da4e99132f3a57ab65c54d32f0f4f4971ea50a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36ada7e95909a7b904dc8bdd2698709aafa81f3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaddlePoints")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaddlePoints")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
