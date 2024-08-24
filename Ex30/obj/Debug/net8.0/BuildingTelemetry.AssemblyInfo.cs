@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuildingTelemetry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36ada7e95909a7b904dc8bdd2698709aafa81f3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54113fc8ae81fee82e703eace1f27a3d7d9abcf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuildingTelemetry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuildingTelemetry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
