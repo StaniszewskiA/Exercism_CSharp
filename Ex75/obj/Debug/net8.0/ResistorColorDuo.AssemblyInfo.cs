@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResistorColorDuo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05874219883d566fd99c4261254f5c060fcc0447")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35f80d435022bc799f1309c37ddeeb3f0de4fd3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResistorColorDuo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResistorColorDuo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
