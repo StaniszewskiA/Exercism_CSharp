@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grains")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35f80d435022bc799f1309c37ddeeb3f0de4fd3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f87bde8dfa4c3538a50b442c52b337143eec808f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grains")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grains")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
